@@ -80,7 +80,7 @@ $ python download.py GAN
 #### Dataset links
 
 - fMRI data (unpreprocessed, BIDS): [OpenNeuro](https://openneuro.org/datasets/ds004670) doi:10.18112/openneuro.ds004670.v1.0.1
-- Preprocessed fMRI data, timulus image features, and pretrained image generators: [figshare](https://figshare.com/articles/dataset/23590302) doi:10.6084/m9.figshare.23590302
+- Preprocessed fMRI data, stimulus image features, and pretrained image generators: [figshare](https://figshare.com/articles/dataset/23590302) doi:10.6084/m9.figshare.23590302
 
 ## Usage
 
