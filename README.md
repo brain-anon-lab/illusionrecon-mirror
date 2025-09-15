@@ -62,6 +62,7 @@ fMRI data and image feature:
 # Training and test fMRI data
 $ python download.py fmri_training
 $ python download.py fmri_test
+$ python download_attention.py
 
 # Stimulus image features
 $ python download.py stimulus_feature
