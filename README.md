@@ -14,7 +14,7 @@
 
 <br />
 
-<h2 align="center">Reconstructing visual illusory experiences from human brain activity</h2>
+<h2 align="center">Reconstructing Subjective Visual Percepts from fMRI: Illusions, Attention, and Benchmarks</h2>
 
  
 <div align="center">
