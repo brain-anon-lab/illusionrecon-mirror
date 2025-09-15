@@ -135,15 +135,6 @@ You can find the following figure in `results/plots/`. Each row shows the recons
 </div>
 
 
-## Citation
-
-Cheng, F. L., Horikawa, T., Majima, K., Tanaka, M., Abdelhack, M., Aoki, S. C., Hirano, J., & Kamitani, Y. (2023) Reconstructing visual illusory experiences from human brain activity. Sci. Adv. 9, eadj3906. DOI: [10.1126/sciadv.adj3906](https://www.science.org/doi/10.1126/sciadv.adj3906)
-
-
-## Contact
-
-Fan Cheng - [@LibraCheng](https://twitter.com/LibraCheng) - chengfanbrain@gmail.com
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
