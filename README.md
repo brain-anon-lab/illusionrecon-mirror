@@ -33,7 +33,7 @@
 
 Clone the repo:
    ```sh
-   git clone https://github.com/KamitaniLab/IllusionReconstruction.git
+   git clone https://github.com/brain-anon-lab/illusionrecon-mirror.git
    ```
 
 ### Build Environment
