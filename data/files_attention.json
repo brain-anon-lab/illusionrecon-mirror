@@ -1,0 +1,19 @@
+{
+    "fmri_attention": {
+      "save_in": "./fmri/test_attention",
+      "article_id": 13474629,
+      "subjects": ["sub-06", "sub-07", "sub-04", "sub-01"],
+      "S_map": {
+        "S1": "sub-06",
+        "S2": "sub-07",
+        "S3": "sub-04",
+        "S4": "sub-01"
+      },
+      "name_patterns": [
+        "sub-06_attention_VC.h5",
+        "sub-07_attention_VC.h5",
+        "sub-04_attention_VC.h5",
+        "sub-01_attention_VC.h5"
+      ]
+    }
+  }
